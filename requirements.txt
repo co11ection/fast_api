@@ -1,0 +1,4 @@
+fastapi
+unicorn
+jsondb
+python-core
